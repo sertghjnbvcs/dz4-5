@@ -15,52 +15,22 @@ function TodoList() {
   const [list, setList] = useState([
     {
       id: 1,
-      title: "Geeks",
+      title: "Coding",
       completed: false,
     },
     {
       id: 2,
-      title: "ItBootcamp",
+      title: "Eat",
       completed: false,
     },
     {
       id: 3,
-      title: "Codify Lab",
+      title: "Sleep",
       completed: false,
     },
     {
       id: 4,
-      title: "IT-RUN",
-      completed: false,
-    },
-    {
-      id: 5,
-      title: "makers",
-      completed: false,
-    },
-    {
-      id: 6,
-      title: "Neobis",
-      completed: false,
-    },
-    {
-      id: 7,
-      title: "Codify Lab",
-      completed: false,
-    },
-    {
-      id: 8,
-      title: "IT-Megacom",
-      completed: false,
-    },
-    {
-      id: 9,
-      title: "Prolab",
-      completed: false,
-    },
-    {
-      id: 10,
-      title: "Soft Club",
+      title: "Coding",
       completed: false,
     },
   ]);
